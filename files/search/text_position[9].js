@@ -1,1 +1,0 @@
-﻿positionForPages[9]={page:9,positions:[{word:"JANUARY",left:0.049160,top:0.040882,width:0.091104,height:0.010376},{word:"2022",left:0.149541,top:0.040882,width:0.041339,height:0.010376},{word:"2022",left:0.910349,top:0.040882,width:0.041339,height:0.010376},{word:"001-2022",left:0.871197,top:0.040882,width:0.080491,height:0.010376}]};
